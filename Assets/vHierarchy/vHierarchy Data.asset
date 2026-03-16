@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a9752b0c8e144801967e6897679604b, type: 3}
+  m_Name: vHierarchy Data
+  m_EditorClassIdentifier: 
+  sceneDatas_byGuid:
+    keys:
+    - 2d31b9c851f3d95448f1c1fa97cb5837
+    values:
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-2d31b9c851f3d95448f1c1fa97cb5837-5188319891359754207-2134220347
+        - globalObjectIdString: GlobalObjectId_V1-2-2d31b9c851f3d95448f1c1fa97cb5837-5188319891041745380-0
+        - globalObjectIdString: GlobalObjectId_V1-2-2d31b9c851f3d95448f1c1fa97cb5837-1622883792054869321-1562509152
+        values:
+        - colorIndex: 2
+          iconNameOrGuid: 
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 2
+          iconNameOrGuid: StandaloneInputModule Icon
+          isIconRecursive: 0
+          isColorRecursive: 1
+        - colorIndex: 7
+          iconNameOrGuid: 
+          isIconRecursive: 0
+          isColorRecursive: 0
+  bookmarks:
+  - _go: {fileID: 0}
+    globalId:
+      globalObjectIdString: GlobalObjectId_V1-2-2d31b9c851f3d95448f1c1fa97cb5837-5188319891041745380-0
+  bookmarkedScenePaths:
+  - Assets/MainMenu.unity
+  - Assets/Jurassic Pack/Scene/DinoIsland.unity

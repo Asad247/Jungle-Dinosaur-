@@ -1,0 +1,13 @@
+﻿<Solution>
+  <Project Path="VFolders.csproj" />
+  <Project Path="sc.stylizedwater2.editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="RSBRuntime.csproj" />
+  <Project Path="VHierarchy.csproj" />
+  <Project Path="RSBEditor.csproj" />
+  <Project Path="VTabs.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="sc.stylizedwater2.runtime.csproj" />
+  <Project Path="Assembly-CSharp-Editor-firstpass.csproj" />
+</Solution>

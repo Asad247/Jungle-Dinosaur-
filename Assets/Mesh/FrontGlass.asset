@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: FrontGlass
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 96
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 25
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.02860296, y: 0.02987019, z: 0.003379326}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 3
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 75
+      m_Range: 0.05974037
+      m_Start: -0.02987019
+      m_Data: 3afe6f9c5eef1b97dec8143a53b9712afd4aa114fe1a670190c6a1c31e8524dc65dc1ec2189794481436f48371c501601c85db50682804c6c9bc8671d5024561eb0119973e70c65d5c2185db276a1ce13d1b776bb714ca1bbc7102069823
+      m_BitSize: 10
+    m_UV:
+      m_NumItems: 50
+      m_Range: 0.987236
+      m_Start: 0.006347656
+      m_Data: 8fff5cfb7ac830e448af10bf008f377a045d1a305048411070008536a204cf1bb750ef40ff70c885fba2e5cfafb7beef8080
+      m_BitSize: 8
+    m_Normals:
+      m_NumItems: 50
+      m_Range: 0.6626304
+      m_Start: -0.3312618
+      m_Data: a46ff59edde08e3bb80089788165349013115b1026a9301f71c447ff76873e9acb6fecea2008
+      m_BitSize: 6
+    m_Tangents:
+      m_NumItems: 50
+      m_Range: 1.003011
+      m_Start: -0.003015543
+      m_Data: 3ff0033fe0033ec0033bd0033cd0033ee0033ff0033fe0033ec0033bd0033cd0033ee0033f00
+      m_BitSize: 6
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 25
+      m_Data: ffffff01
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 50
+      m_Data: eaffffaaaaaa02
+      m_BitSize: 1
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 96
+      m_Data: 200811c6206214428a318718740e4a499db4945a8c35c55c6bee3dd85e84304a39a1a473d25aedacd7da0b80b0d88a06319c785a8c0521071f8555c3
+      m_BitSize: 5
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.02860296, y: 0.02987019, z: 0.003379326}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1
